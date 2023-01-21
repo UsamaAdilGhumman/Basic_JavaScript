@@ -107,15 +107,4 @@ console.log(typeof x);
 for(let key in user){
     console.log(key);  //name
 }
-// it ignore the Symbol
-
-
-
-
-
-
-
-
-
-
-
+// for loop ignore the Symbol Data type
